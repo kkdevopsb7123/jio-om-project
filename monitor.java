@@ -1,1 +1,1 @@
-System.out.println("monitoring java application");
+System.out.println("monitoring java application B1");
